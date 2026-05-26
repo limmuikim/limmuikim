@@ -11,9 +11,9 @@ Two themes define my work:
 2. **Driving clarity and execution across complexity and functional teams**
 
 In practice, this includes: 
-- structuring market expansion across APAC markets
-- building demand and pipeline that prioritize conversion 
-- turning customer and loyalty strategies into measurable value 
+- Structuring market expansion across APAC markets
+- Building demand and pipeline that prioritize conversion 
+- Turning customer and loyalty strategies into measurable value 
 - Creating sustainable value ecosystem 
 - Navigating commercial transformation by bridging traditional marketing with emerging digital and AI
   capabilities.
