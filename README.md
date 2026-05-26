@@ -1,7 +1,7 @@
 Hi, I'm Mui Kim 👋
 APAC Commercial & Marketing Leader | Growth Through Customer Strategy, Market Expansion & Partnership | AI-Enabled Growth Systems 
 
-I help companies translate strategy into execution, building scalable models that drive conversion, quality pipeline and long-term value. Armed with over 20 years of regional commercial and marketing experience, I have driven growth, market expansion, customer strategy and partnerships across complex business environments in the APAC markets. 
+I help companies translate strategy into execution, building scalable models that drive conversion, quality pipeline and long-term value. Equipped with over 20 years of regional commercial and marketing experience, I have driven growth, market expansion, customer strategy and partnerships across complex business environments in the APAC markets. 
 
 Experienced in consumer lifestyle, financial services, hospitality, education and technology sectors, I have led teams and initiatives driving revenue growth, market expansion and customer value in diverse market environments. 
 This cross-industry experience allows me to recognize patterns quickly; what drives growth and how to prioritize what matters.
