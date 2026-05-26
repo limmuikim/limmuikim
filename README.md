@@ -14,7 +14,9 @@ In practice, this includes:
 - structuring market expansion across APAC markets
 - building demand and pipeline that prioritize conversion 
 - turning customer and loyalty strategies into measurable value 
-- creating scalable frameworks and direction, while considering short-term and long-term goals
+- Creating sustainable value ecosystem 
+- Navigating commercial transformation by bridging traditional marketing with emerging digital and AI
+  capabilities.
 
 Currently, I am working on AI workflows, automation and analytics to drive scalable business growth, updating from the Digital transformation project I have lead together with my IT folks during my work in RWS. 
 
