@@ -19,9 +19,9 @@ In practice, this includes:
 Currently, I am working on AI workflows, automation and analytics to drive scalable business growth, updating from the Digital transformation project I have lead together with my IT folks during my work in RWS. 
 
 🛠️ What I'm Building & Deploying
-(i) AI-Powered LinkedIn Content Agent** – Multi-agent automation workflow for regional brand scaling.
-(ii)Sales & Marketing Dashboard** - Live dashboard including customer clusters for agile targeting, customer retention and performance management.
-(iii)Personal Journal** – for building and recording good habits and discipline.
+(i) AI-Powered LinkedIn Content Agent – Multi-agent automation workflow for regional brand scaling.
+(ii)Sales & Marketing Dashboard - Live dashboard including customer clusters for agile targeting, customer retention and performance management.
+(iii)Personal Journal– for building and recording good habits and discipline.
 
 🌐 Connect With Me
 * Connect on LinkedIn https://www.linkedin.com/in/muikim
