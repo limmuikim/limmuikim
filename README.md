@@ -22,7 +22,7 @@ Currently, I'm working on AI workflows, automation and analytics to drive scalab
 
 🛠️ What I'm Building & Deploying
 
-* **[Growth Advisory Journal](https://github.com/limmuikim/growth-advisory-journal/wiki)** – A curated knowledge base holding actual **5/95-method** frameworks, market expansion insights, and commercial transformation strategies for APAC business leaders.
+* **[Growth Advisory Journal](https://github.com/limmuikim/growth-advisory-journal/wiki)** – A curated knowledge base holding actual **5/95-insights** and commercial transformation strategies for APAC business leaders.
 * **AI-Powered LinkedIn Content Agent** – Multi-agent automation workflow for regional brand scaling.
 * **Sales & Marketing Dashboard** – Live dashboard including customer clusters for agile targeting, customer retention, and performance management.
 * **Personal Journal** – For building and recording good habits and discipline.
