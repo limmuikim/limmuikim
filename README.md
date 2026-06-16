@@ -8,7 +8,7 @@ This cross-industry experience allows me to recognize patterns quickly; what dri
 
 Two themes define my work: 
 1. **Build growth systems that scale** 
-2. **Driving clarity and execution across complexity and functional teams**
+2. **Drive clarity and execution across complexity and functional teams**
 
 In practice, this includes: 
 - Structuring market expansion across APAC markets
@@ -18,7 +18,7 @@ In practice, this includes:
 - Navigating commercial transformation by bridging traditional marketing with emerging digital and AI
   capabilities.
 
-Currently, I am working on AI workflows, automation and analytics to drive scalable business growth, updating from the Digital transformation project I have lead together with my IT folks during my work in RWS. 
+Currently, I'm working on AI workflows, automation and analytics to drive scalable business growth — building on the digital transformation initiative I led with the IT team at RWS.
 
 🛠️ What I'm Building & Deploying
 (i) **AI-Powered LinkedIn Content Agent** – Multi-agent automation workflow for regional brand scaling.
