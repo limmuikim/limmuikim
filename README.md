@@ -25,6 +25,12 @@ Currently, I am working on AI workflows, automation and analytics to drive scala
 (ii) **Sales & Marketing Dashboard** - Live dashboard including customer clusters for agile targeting, customer retention and performance management.
 (iii) **Personal Journal**– for building and recording good habits and discipline.
 
-🌐 Connect With Me
-* [Connect on LinkedIn] (https://www.linkedin.com/in/muikim)
-* [View My Website] (https://www.fiveninetyfive.co/)
+---
+
+## 🤝 Connect & Collaborate
+
+> 💡 **Let's build something together.**
+> If you are an executive, growth marketer or founder looking to optimize your commercial roadmap, scale your operations, or brainstorm AI implementations, feel free to explore this Wiki or reach out to discuss advisory opportunities.
+> 
+> * 🌐 **Website:** [fiveninetyfive.co](https://www.fiveninetyfive.co/)
+> * 💼 **LinkedIn:** [Mui Kim on LinkedIn](https://www.linkedin.com/in/muikim)
