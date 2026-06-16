@@ -27,7 +27,7 @@ Currently, I am working on AI workflows, automation and analytics to drive scala
 
 ---
 
-## 🤝 Connect & Collaborate
+**🤝 Connect & Collaborate**
 
 > 💡 **Let's build something together.**
 > If you are an executive, growth marketer or founder looking to optimize your commercial roadmap, scale your operations, or brainstorm AI implementations, feel free to explore this Wiki or reach out to discuss advisory opportunities.
